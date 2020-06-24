@@ -1,0 +1,15 @@
+8f8213df5e221c40e7cd2e39f3bb3d84 *DESCRIPTION
+f7af053e6733b5e5ff2a509f124a55c5 *LICENSE
+e0482e2d6ba475c7a38a7a0cb8120f5a *NAMESPACE
+7453b95154ed6d710c8cfb2e406d1828 *NEWS.md
+2ebcd5ce03c0e6a759fac2c15d5661f7 *R/gettest.R
+4f22127ae60c366e38bfbbadd6c034a3 *R/test-fun.R
+7a3198bc132a1f06d85fb3e764f73458 *R/test.R
+1328b8353d7169327102ac7b4eb1350f *R/unittest.R
+804f703d589dc6449242e236375c2cc7 *README.md
+45af1f7e9a149c0f8b7b173a22432a82 *man/get_test.Rd
+4e20c59be9b1dc624e664be7ab5579f2 *man/test-set.Rd
+fa85d24c3e2ad78f0153fafdf5ea50b0 *man/test_fun.Rd
+199912fa57d4d62e42264ac85478e394 *man/unittests.Rd
+efa7a9b70c2871fbb0dc9cbe571ee7fc *tests/testthat.R
+c0fede53d5ea8fd8036f5acc625eb452 *tests/testthat/test_attached.R
